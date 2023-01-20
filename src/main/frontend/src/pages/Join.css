@@ -1,0 +1,60 @@
+*{
+
+}
+.header{
+    max-width:460px;
+    min-width:330px;
+    height:200px;
+    padding: 120px;
+}
+.img{
+    width:120px;
+}
+.join{
+    margin: 40px;
+}
+.joinWrapper{
+    min-width:330px;
+    max-width: 460px;
+    max-height: 56px;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper{
+    width: 492px;
+    height: 1328px;
+    padding: 0px 16px 200px;
+
+}
+.name{
+    margin: 5px 0px;
+    padding: 14px;
+    border-radius: 5px;
+    border: 1px solid #f2f2f2;
+    outline: none;
+}
+.Email{
+    margin: 5px 0px;
+    padding: 14px;
+    border-radius: 5px;
+    border: 1px solid #f2f2f2;
+    outline: none;
+}
+.pw{
+    margin: 5px 0px;
+    padding: 14px;
+    border-radius: 5px;
+    border: 1px solid #f2f2f2;
+    outline: none;
+}
+.joinBtn{
+    margin: 20px 0px;
+    background-color: #2FD19B;
+    font-weight: bold;
+    color: #fff;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+
+}
